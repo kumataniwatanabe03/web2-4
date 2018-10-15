@@ -7,12 +7,14 @@
  </head>
  <body>
   <article id="main">
-  <img src="https://4.bp.blogspot.com/-RnPTLxxLb1A/VwIjK1_ho3I/AAAAAAAA5fw/E0krC0epNxghXmTKS4DkibzIDTz6NfklA/s800/nakayoshi_cats_couple.png"
-   alt="猫ちゃん" with=300 class="photo" >
-   <dl>
-    <dt>作るもの</dt><dt>関東風猫まんま(ごはんに鰹節をのせたもの)</dt>
-   </dl>
-  <p>※画像はあくまでイメージです。</p>
-  </article>
+   <section class="nekotyan_picture">
+    <img src="https://4.bp.blogspot.com/-RnPTLxxLb1A/VwIjK1_ho3I/AAAAAAAA5fw/E0krC0epNxghXmTKS4DkibzIDTz6NfklA/s800/nakayoshi_cats_couple.png"
+     alt="猫ちゃん" with=300 class="photo" >
+     <dl>
+      <dt>作るもの</dt><dd>関東風猫まんま(ごはんに鰹節をのせたもの)</dd>
+     </dl>
+     <p>※画像はあくまでイメージです。</p>
+    </selection>
+   </article>
  </body>
 </html>
