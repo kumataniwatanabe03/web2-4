@@ -8,3 +8,13 @@ body{ background-color: #D0E0C0; }
 
 .photo{ float: left;
         margin-right: 30px; }
+
+.nekotyan_picture:after{ content: "";
+                         cear: both;
+                         display: block; }
+
+.explanation{ float:left; }
+
+dt{clear: left;
+   froat: left;
+   font-weight: bold; }
