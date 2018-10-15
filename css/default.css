@@ -3,5 +3,8 @@ body{ background-color: #D0E0C0; }
 #main{ width: 960px;
        margin: 40px auto;
        padding: 40px 80px;
-       border: green 1px solid;
-       background-color: white; }
+       border: #578a3d 1px solid;
+       background-color: #ffffff; }
+
+.photo{ float: left;
+        margin-right: 30px; }
