@@ -13,7 +13,7 @@ body{ background-color: #D0E0C0; }
                          cear: both;
                          display: block; }
 
-.explanation{ float:left; }
+.explanation{ float:left; width: 468px; }
 
 dt{clear: left;
    froat: left;
