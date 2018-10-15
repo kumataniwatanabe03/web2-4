@@ -1,2 +1,18 @@
 <!DOCTYPE html>
 <html lang="ja">
+ <head>
+  <meta charset="UFT-8">A
+  <link rel="stylesheet" type="text/css" href="css/default.css">
+  <title>朝ごはんに便利！お手軽ねこまんまの作り方</title>
+ </head>
+ <body>
+  <article id="main">
+  <img src="https://4.bp.blogspot.com/-RnPTLxxLb1A/VwIjK1_ho3I/AAAAAAAA5fw/E0krC0epNxghXmTKS4DkibzIDTz6NfklA/s800/nakayoshi_cats_couple.png"
+   alt="猫ちゃん" with=300 class="photo" >
+   <dl>
+    <dt>作るもの</dt><dt>関東風猫まんま(ごはんに鰹節をのせたもの)</dt>
+   </dl>
+  <p>※画像はあくまでイメージです。</p>
+  </article>
+ </body>
+</html>
