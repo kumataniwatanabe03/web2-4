@@ -20,13 +20,13 @@ dt{clear: left;
    font-weight: bold; }
 
 .btn{ -webkit-appearance: none;
-     -webkit-border-radius: 0;
-     margin: 5px;
-     width: 100px;
-     height: 40px
-     padding: 6px
-     border: none;
-     font-size:16px }
+      -webkit-border-radius: 0;
+      margin: 5px;
+      width: 100px;
+      height: 40px
+      padding: 6px
+      border: none;
+      font-size:16px }
 
 .btn-reset{ background-color: #f08080; }
 
